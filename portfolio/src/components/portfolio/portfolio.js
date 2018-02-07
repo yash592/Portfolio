@@ -23,7 +23,7 @@ const Portfolio = () => (
                 </div>
                 <div class="col-sm-6 item">
                     <div class="row">
-                        <div class="col-md-12 col-lg-5"><a href="#"><img class="img-fluid" src="https://i.imgur.com/W9bS669.png" /></a></div>
+                        <div class="col-md-12 col-lg-5"><a href="#"><img class="img-fluid" src="https://i.imgur.com/UcmvHJr.png" /></a></div>
                         <div class="col">
                             <h3 class="name">MacroMeals</h3>
                             <p class="description">MacroMeals is a full stack application for health concsious consumers to get nutrition recommendations based on their goals.</p>
@@ -32,7 +32,7 @@ const Portfolio = () => (
                 </div>
                 <div class="col-sm-6 item">
                     <div class="row">
-                        <div class="col-md-12 col-lg-5"><a href="#"><img class="img-fluid" src="https://i.imgur.com/W9bS669.png" /></a></div>
+                        <div class="col-md-12 col-lg-5"><a href="#"><img class="img-fluid" src="https://i.imgur.com/8jz4WFY.jpg" /></a></div>
                         <div class="col">
                             <h3 class="name">Meetipedia</h3>
                             <p class="description">Meetipedia is a front end application utilizing APIs like Eventbrite, Google places and Parkwhiz for a better meetup experience</p>
