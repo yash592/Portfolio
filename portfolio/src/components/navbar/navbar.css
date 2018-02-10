@@ -6,7 +6,11 @@
 }
 
 .navigation-clean {
-  background-color: transparent;
+  background-color: transparent !important;
+}
+
+li {
+  list-style-type: none !important;
 }
 
 

@@ -5,7 +5,7 @@ import "./skills.css";
 
 const Skills = () => (
 
-<div class="align-items-center align-self-center">
+<div class="align-items-center align-self-center" id="skills">
         <h1>Skills</h1>
         <div class="skilldiv">
             <div class="float-left justify-content-center align-items-center align-content-start m-auto">
