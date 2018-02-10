@@ -8,9 +8,11 @@
 
 }
 
+
+
 h1, p {
   text-align:center;
-  color:white;
+  color: #EF5646;
 
 }
 
@@ -29,7 +31,7 @@ h1, p {
 
 .progress {
 
-  width:80%;
+  width:90%;
   height: 25px;
   margin-right:0px;
   margin-top:51px;
@@ -40,7 +42,7 @@ h1, p {
 }
 
 .progress-bar {
-   width: 50%;
+   /* width: 50%; */
    background-color: #EF5646;
 }
 

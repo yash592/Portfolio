@@ -13,7 +13,7 @@ const Navbar = () => (
                         <li class="nav-item" role="presentation"><a class="nav-link active" href="#">About </a></li>
                         <li class="nav-item" role="presentation"><a class="nav-link" href="#">Education </a></li>
                         <li class="nav-item" role="presentation"><a class="nav-link" href="#">Skills </a></li>
-                        <li class="nav-item" role="presentation"><a class="nav-link" href="#">Portfolio </a></li>
+                        <li class="nav-item" role="presentation"><a class="nav-link" href="#port">Portfolio </a></li>
                         <li class="nav-item" role="presentation"><a class="nav-link" href="#">Contact </a></li>
                     </ul>
                 </div>

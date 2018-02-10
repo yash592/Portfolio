@@ -5,10 +5,10 @@ import "./portfolio.css";
 
 const Portfolio = () => (
 
-<div class="projects-horizontal">
+<div class="projects-horizontal" id="port">
         <div class="skillcontainer">
             <div class="intro">
-                <h2 class="text-center">Portfolio</h2>
+                <h1 class="text-center">Portfolio</h1>
                 <p class="text-center">Full stack and front end applications</p>
             </div>
             <div class="row projects">

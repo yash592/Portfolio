@@ -2,7 +2,11 @@
 
 .navbar {
   width: 100%;
-  background-color:rgb(37,36,36);
+
+}
+
+.navigation-clean {
+  background-color: transparent;
 }
 
 
@@ -14,5 +18,3 @@
  .navbar-brand {
    color: white;
  }
-
- 
