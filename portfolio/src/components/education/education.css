@@ -20,12 +20,32 @@ body {
 }
 
 .container {
-	height:3200px;
+	height:2100px;
+}
+
+h1 {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h2 {
+	font-size: 2rem;
+	font-family: 'Titillium Web', sans-serif;
+
+}
+
+h3 {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 1.5rem
+}
+
+ul {
+	font-family: 'Barlow Condensed', sans-serif;
 }
 
 .education {
   color: #EF5646;
   text-align: center;
+
 }
 .main {
 	/* width: 90%; */

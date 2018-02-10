@@ -10,4 +10,5 @@
 
   .rounded-circle{
     width: 140px;
+    box-shadow: 4px -3px 6px 0px #0c0c0c;
   }
