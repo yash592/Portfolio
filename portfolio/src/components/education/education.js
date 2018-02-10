@@ -4,7 +4,7 @@ import React from "react";
 import "./education.css";
 
 const education = () => (
-  <div class="container">
+  <div class="container" id="ed">
                 <header class="clearfix">
                     <h1 class = "education">Education and Work Experience</h1>
                 </header>
