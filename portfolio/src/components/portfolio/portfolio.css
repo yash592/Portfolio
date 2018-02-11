@@ -12,6 +12,10 @@ h2 {
   color:##EF5646
 }
 
+.projects {
+  height: 800px;
+}
+
 .projects-clean .projects,.projects-horizontal .projects{padding-bottom:40px}
 
 .projects-clean{color:#313437;}

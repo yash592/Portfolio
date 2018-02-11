@@ -13,6 +13,12 @@ li {
   list-style-type: none !important;
 }
 
+.nav-link {
+  color: white !important;
+  text-shadow: -7px -4px 14px #00000;
+  opacity: 0.8;
+}
+
 
 
  /* .nav {
@@ -20,5 +26,6 @@ li {
  } */
 
  .navbar-brand {
-   color: white;
+   color: #EF5646 !important;
+   opacity: 0.8;
  }
