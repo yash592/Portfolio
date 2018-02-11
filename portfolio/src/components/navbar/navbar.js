@@ -14,7 +14,7 @@ const Navbar = () => (
                         <li class="nav-item" role="presentation"><a class="nav-link" href="#ed">Education </a></li>
                         <li class="nav-item" role="presentation"><a class="nav-link" href="#skills">Skills </a></li>
                         <li class="nav-item" role="presentation"><a class="nav-link" href="#port">Portfolio </a></li>
-                        <li class="nav-item" role="presentation"><a class="nav-link" href="#">Contact </a></li>
+                        <li class="nav-item" role="presentation"><a class="nav-link" href="#connect">Contact </a></li>
                     </ul>
                 </div>
             </div>
