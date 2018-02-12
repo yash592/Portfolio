@@ -6,10 +6,15 @@
 
  p {
   color:white;
+  font-family: 'Barlow Condensed', sans-serif;
 }
 
 h2 {
   color:##EF5646
+}
+
+h3 {
+  font-family: 'Ubuntu', sans-serif;
 }
 
 .projects {
@@ -32,7 +37,7 @@ h2 {
 
 .projects-clean .item .name{font-weight:700;margin-top:28px;margin-bottom:8px;color:inherit}
 
-.projects-clean .item .description{font-size:15px;margin-top:15px;margin-bottom:0}
+.projects-clean .item .description{font-size:18px;margin-top:15px;margin-bottom:0}
 
 .projects-horizontal{color:#313437; width: 80%; text-align: center; margin: 0 auto}
 
@@ -44,6 +49,6 @@ h2 {
 
 .projects-horizontal .item{padding-top:60px;min-height:160px}@media (max-width:767px){.projects-horizontal .item{padding-top:40px;min-height:160px}}
 
-.projects-horizontal .item .name{font-size:18px;font-weight:700;margin-top:10px;margin-bottom:15px;color:inherit}@media (max-width:991px){.projects-horizontal .item .name{margin-top:22px}}
+.projects-horizontal .item .name{font-size:32px;font-weight:700;margin-top:10px;margin-bottom:15px;color:inherit}@media (max-width:991px){.projects-horizontal .item .name{margin-top:22px}}
 
-.projects-horizontal .item .description{font-size:15px;margin-bottom:0};
+.projects-horizontal .item .description{font-size:18px;margin-bottom:0};
