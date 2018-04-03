@@ -26,7 +26,7 @@ const education = () => (
                             <h2>Full Stack Development</h2>
                             <h3>UCLA Extension</h3>
                             <ul>
-                              <li>A 12 week intensive Full stack coding bootcamp</li>
+                              <li>Full Stack Development Certificate</li>
                               <li>Learnt and worked on several full stack MERN projects</li>
 
                             </ul>
