@@ -29,8 +29,8 @@ const education = () => (
                               <li>Design and detail manufacturing drawings from concept to finished products.</li>
                               <li>Develop, prototype and assist in development and manufacturing of new products.</li>
                               <li>Perform product testing and analyze failures</li>
-                              <li>Analyzes engineering sketches, specifications, and related data and drawings to determine if design is feasible</li>
-                              <li>Draft detailed multi view drawings of parts and subassemblies</li>
+                              <li>Analyzes engineering sketches, specifications, and related data and drawings to determine if design is feasible.</li>
+                              <li>Draft detailed multi view drawings of parts and subassemblies.</li>
                             </ul>
                         </div>
                     </li>
