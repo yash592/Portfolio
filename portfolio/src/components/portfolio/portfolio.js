@@ -18,6 +18,7 @@ const Portfolio = () => (
                         <div class="col">
                             <h3 class="name">Portflow.io</h3>
                             <p class="description">Portfolio Full Stack application built for artists and developers to showcase their work.</p>
+                            <p>Username: test Password: test</p>
                         </div>
                     </div>
                 </div>
@@ -27,6 +28,7 @@ const Portfolio = () => (
                         <div class="col">
                             <h3 class="name">MacroMeals</h3>
                             <p class="description">MacroMeals is a full stack application for health concsious consumers to get nutrition recommendations based on their goals.</p>
+                            <p>Username: test Password: test</p>
                         </div>
                     </div>
                 </div>
@@ -41,10 +43,21 @@ const Portfolio = () => (
                 </div>
                 <div class="col-sm-6 item">
                     <div class="row">
-                        <div class="col-md-12 col-lg-5"><a href="#" target="_blank"><img class="img-fluid" src="https://i.imgur.com/xbGJVbC.png" /></a></div>
+                        <div class="col-md-12 col-lg-5"><a href="#" target="_blank"><img class="img-fluid" src="https://i.imgur.com/Q3JrDqN.png" /></a></div>
                         <div class="col">
-                            <h3 class="name">Onion Scraper</h3>
-                            <p class="description">Full Stack application built in React to search, save and delete Onion articles.</p>
+                            <h3 class="name">Bulletin.io</h3>
+                            <p class="description">Full Stack application built in React to display top stories</p>
+                            <p class="description">Utilizes the text summarization API for quick on the go gists of articles</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 item">
+                    <div class="row">
+                        <div class="col-md-12 col-lg-5"><a href="#" target="_blank"><img class="img-fluid" src="https://i.imgur.com/sLkPvHR.png" /></a></div>
+                        <div class="col">
+                            <h3 class="name">Broccoli</h3>
+                            <p class="description">Full Stack application built in React to display top stories</p>
+                            <p class="description">Full Stack application built in React to display top stories</p>
                         </div>
                     </div>
                 </div>

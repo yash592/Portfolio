@@ -20,15 +20,17 @@ const education = () => (
                         </div>
                     </li>
                     <li>
-                        <time class="cbp_tmtime" datetime="2013-04-16 21:30"><span>10/17</span></time>
+                        <time class="cbp_tmtime" datetime="2013-04-16 21:30"><span>10/18</span></time>
                         <div class="cbp_tmicon cbp_tmicon-earth"></div>
                         <div class="cbp_tmlabel">
-                            <h2>Full Stack Development</h2>
-                            <h3>UCLA Extension</h3>
+                            <h2>Engineer</h2>
+                            <h3>Pacmet Aerospace</h3>
                             <ul>
-                              <li>A 12 week intensive Full stack coding bootcamp</li>
-                              <li>Learnt and worked on several full stack MERN projects</li>
-
+                              <li>Design and detail manufacturing drawings from concept to finished products.</li>
+                              <li>Develop, prototype and assist in development and manufacturing of new products.</li>
+                              <li>Perform product testing and analyze failures</li>
+                              <li>Analyzes engineering sketches, specifications, and related data and drawings to determine if design is feasible</li>
+                              <li>Draft detailed multi view drawings of parts and subassemblies</li>
                             </ul>
                         </div>
                     </li>

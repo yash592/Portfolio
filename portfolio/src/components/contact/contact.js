@@ -10,7 +10,7 @@ const Contact = () => (
     <div class="icons">
       <a href="https://github.com/yash592" target="_blank"><img className="social" src = "https://cdn3.iconfinder.com/data/icons/free-social-icons/67/github_circle_gray-128.png" /></a>
       <a href="https://www.linkedin.com/in/yashrajgor/" target="_blank"><img className="social" src = "https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_gray-128.png" /></a>
-      <a href="https://goo.gl/f5B4Pz" target="_blank"><img className="social" src = "https://i.imgur.com/eCZW6xb.png" /></a>
+      <a href="https:/goo.gl/zDRSyM" target="_blank"><img className="social" src = "https://i.imgur.com/eCZW6xb.png" /></a>
     </div>
 
     <br />
